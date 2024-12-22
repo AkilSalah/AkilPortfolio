@@ -1,0 +1,55 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "I specialize in frontend development using HTML, CSS, JavaScript, Vue.js and Angular, creating dynamic and responsive user interfaces with a focus on performance and user experience."
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "I specialize in backend development with Spring Boot and Laravel, focusing on building scalable applications and managing both relational and non-relational databases like PostgreSQL, MongoDB, and JDBC."
+    },
+    {
+      "id": "3",
+      "src": "./img/feather-pen-2.png",
+      "title": "UI & UX Design",
+      "description": "I have strong expertise in UI/UX design, focusing on creating intuitive, user-friendly interfaces using tools like Figma, with a focus on enhancing user experience and visual appeal."
+    },
+    {
+      "id": "4",
+      "src": "./img/feather-pen-1.png",
+      "title": "Webflow Development",
+      "description": "I specialize in Webflow development, creating interactive, responsive websites with custom animations and integrations, while ensuring optimal performance and SEO."
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/citronix.png",
+      "title": "Citronix",
+      "description": "A solution designed to optimize and efficiently manage agricultural activities.",
+      "link": "View In Github",
+      "url" :"https://github.com/AkilSalah/Citronix.git"
+    },
+    {
+      "id": "2",
+      "src": "./img/musicProject.png",
+      "title": "Akil Music",
+      "description": "A solution for efficiently managing albums and songs, as well as user authentication and authorization.",
+      "link": "View In Github",
+      "url" :"https://github.com/AkilSalah/AkilMusic.git"
+    },
+    {
+      "id": "3",  
+      "src": "./img/fisherMan.jpg",
+      "title": "Fisherman",
+      "description": "E-commerce platform for fishing enthusiasts to shop, share their experiences, and book fishing trips.",
+      "link": "View In Github",
+      "url" :"https://github.com/AkilSalah/FilRouge-Project.git"
+    }
+  ]
+
+}
