@@ -10,7 +10,7 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section-description">
-          Développement Full Stack pour des solutions fiables et évolutives qui transforment vos idées en réalité
+          Full Stack Development for reliable and scalable solutions that turn your ideas into reality.
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>
