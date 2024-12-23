@@ -775,6 +775,7 @@ input[type="checkbox"] {
     padding: 0; 
     width: 40vh; 
     text-align: center;
+    font-size: 17.333px;
   }
   .hero--section--img img{
     width: 100vw;
@@ -789,9 +790,21 @@ input[type="checkbox"] {
     padding: 5%;
   }
   .text-lg{
-    padding: 10px;
+    padding: 20px;
     width: 40vh;
     text-align: center;
+    font-size: 17.333px;
+  }
+  .contact--form--container{
+    display: grid;
+    justify-content: center;
+    
+  }
+  .text-md{
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 24px;
   }
 
   .skills-section--heading{
