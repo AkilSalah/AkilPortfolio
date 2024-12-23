@@ -768,8 +768,36 @@ input[type="checkbox"] {
 
 
 @media only screen and (max-width: 600px) {
-
+  .about--section--img img{
+    width: 100vw;
+  }
+  .hero--section-description {
+    padding: 0; 
+    width: 40vh; 
+    text-align: center;
+  }
+  .hero--section--img img{
+    width: 100vw;
+  }
+  .btn-primary{
+    width: 100%;    
+  }
   .skills--section{
     padding: 5%;
   }
-}
+  .portfolio--section{
+    padding: 5%;
+  }
+  .text-lg{
+    padding: 10px;
+    width: 40vh;
+    text-align: center;
+  }
+
+  .skills-section--heading{
+    font-size: 45px;
+  }
+  
+  
+
+} 
