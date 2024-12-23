@@ -119,7 +119,7 @@ h2 {
   color: var(--darkblue);
   font-size: 16px;
   font-style: normal;
-  font-weight: 400;
+  font-weight: bold;
   line-height: 24px;
 }
 /* Body 3 */
@@ -796,9 +796,9 @@ input[type="checkbox"] {
     font-size: 17.333px;
   }
   .contact--form--container{
-    display: grid;
-    justify-content: center;
-    
+    display: flex;
+    flex-direction: column;
+    width: 90vw;
   }
   .text-md{
     font-size: 18px;
@@ -806,10 +806,10 @@ input[type="checkbox"] {
     font-weight: bold;
     line-height: 24px;
   }
+  
 
-  .skills-section--heading{
-    font-size: 45px;
-  }
+  
+
   
   
 
