@@ -37,7 +37,6 @@ p {
   text-align: center;
   text-decoration: none;
   border-radius: 4px;
-  margin-left: 20px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   -ms-border-radius: 5px;
@@ -595,10 +594,12 @@ input[type="checkbox"] {
     line-height: 70px;
   }
   .skills--section--container {
-    gap: 16px;
+    gap: 32px;
+
   }
   .skills--section--card {
     gap: 28px;
+
   }
   .skills--section--card--content {
     gap: 20px;
@@ -763,3 +764,12 @@ input[type="checkbox"] {
 }
 
 /* Responsive Screens Ends*/
+
+
+
+@media only screen and (max-width: 600px) {
+
+  .skills--section{
+    padding: 5%;
+  }
+}
